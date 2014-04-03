@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry including="**/*.java" kind="src" output="target/test-classes" path="src/test/java"/>
+	<classpathentry including="**/*.java" kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="var" path="M2_REPO/junit/junit/3.8.1/junit-3.8.1.jar" sourcepath="M2_REPO/junit/junit/3.8.1/junit-3.8.1-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/sosnoski/concur/article1/1.0-SNAPSHOT/article1-1.0-SNAPSHOT.jar" sourcepath="M2_REPO/com/sosnoski/concur/article1/1.0-SNAPSHOT/article1-1.0-SNAPSHOT-sources.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="var" path="M2_REPO/org/scala-lang/scala-library/2.10.3/scala-library-2.10.3.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
